@@ -3,6 +3,9 @@
 
 **Updated: 1/05/2021**
 
+**Updated: 18/05/2021**
+Typescript
+
 **Required Environment Variables**
 
 process.env.EMAIL_HOST
