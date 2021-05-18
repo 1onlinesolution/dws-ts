@@ -1,0 +1,25 @@
+{
+  "name": "@1onlinesolution/dws-ts",
+  "version": "0.1.0",
+  "description": "Utilities for the Web - Typescript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major",
+    "lint": "eslint *.js lib/**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^9.0.2",
+    "eslint": "^7.26.0",
+    "eslint-plugin-security": "^1.4.0",
+    "prettier": "^2.3.0"
+  }
+}
